@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+nav {
+    background-color: white;
+    color: whitesmoke;
+
+}
+
+h1 {
+    color: black;
+}
+
+h2,
+form {
+    color: whitesmoke;
+}
